@@ -2,8 +2,8 @@ import discord
 import requests
 import asyncio
 
-TOKEN = 'OTQyMjA4NDQ3MzY4MjY5ODk1.GPLuwY.q2WefZjNwt4_33CyZNZ4BmAGz1csh4nH3Bz1EI'
-GUILD_ID = 862805410670575666  # puedes dejar el mismo si están en el mismo servidor
+TOKEN = 'YOUR-DISCORD-TOKEN'
+GUILD_ID = YOUR-GUILD-DISCORD-ID
 
 SYMBOL = 'SOLUSDT'
 NAME = 'SOL'
